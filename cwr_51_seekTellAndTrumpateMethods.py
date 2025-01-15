@@ -1,0 +1,13 @@
+#x=open('myfile3.txt','w')
+#x.write("Hello Welcome to this new world")
+#x.close()
+#x=open('myfile3.txt','r')
+#x.seek(2)
+#print(x.read(5))
+'''x=open('myfile3.txt','w')
+x.write("hii world This is a new world:")
+x.truncate(5)
+x.close()
+y=open('myfile3.txt','r')
+print("The text in the file is ",y.read())
+y.close()'''
